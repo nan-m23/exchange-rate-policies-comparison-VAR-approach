@@ -1,1 +1,3 @@
-# exchange-rate-policies-comparison-VAR-approach
+这个项目将使用向量自回归（VAR）模型研究 不同汇率管控政策的经济体面对外部冲击时的不同反应。
+
+ps：此项目意义在于学习VAR模型的使用，实证结果仅供参考。
